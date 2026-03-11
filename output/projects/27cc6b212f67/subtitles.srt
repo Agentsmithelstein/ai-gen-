@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:08,000
+Scene 1 Narrated educational video about: description of the movie dogma This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward
+
+2
+00:00:08,000 --> 00:00:16,000
+Scene 2 Narrated educational video about: description of the movie dogma This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward
+
+3
+00:00:16,000 --> 00:00:24,000
+Scene 3 Narrated educational video about: description of the movie dogma This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward
+
+4
+00:00:24,000 --> 00:00:32,000
+Scene 4 Narrated educational video about: description of the movie dogma This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward
+
+5
+00:00:32,000 --> 00:00:40,000
+Scene 5 Narrated educational video about: description of the movie dogma This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward
+
+6
+00:00:40,000 --> 00:00:48,000
+Scene 6 Narrated educational video about: description of the movie dogma This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward
+
+7
+00:00:48,000 --> 00:00:56,000
+Scene 7 Narrated educational video about: description of the movie dogma This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward

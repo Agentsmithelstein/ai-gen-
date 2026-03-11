@@ -1,0 +1,44 @@
+{
+  "scene_count": 7,
+  "language": "en",
+  "style": "educational",
+  "model": "llama3:8b",
+  "outline": "Edited by user",
+  "scenes": [
+    {
+      "index": 1,
+      "narration": "Scene 1. Narrated educational video about: description of the movie dogma. This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward.",
+      "visual_description": "Cinematic 16:9 frame for scene 1: description of the movie dogma, educational tone, highly detailed composition."
+    },
+    {
+      "index": 2,
+      "narration": "Scene 2. Narrated educational video about: description of the movie dogma. This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward.",
+      "visual_description": "Cinematic 16:9 frame for scene 2: description of the movie dogma, educational tone, highly detailed composition."
+    },
+    {
+      "index": 3,
+      "narration": "Scene 3. Narrated educational video about: description of the movie dogma. This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward.",
+      "visual_description": "Cinematic 16:9 frame for scene 3: description of the movie dogma, educational tone, highly detailed composition."
+    },
+    {
+      "index": 4,
+      "narration": "Scene 4. Narrated educational video about: description of the movie dogma. This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward.",
+      "visual_description": "Cinematic 16:9 frame for scene 4: description of the movie dogma, educational tone, highly detailed composition."
+    },
+    {
+      "index": 5,
+      "narration": "Scene 5. Narrated educational video about: description of the movie dogma. This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward.",
+      "visual_description": "Cinematic 16:9 frame for scene 5: description of the movie dogma, educational tone, highly detailed composition."
+    },
+    {
+      "index": 6,
+      "narration": "Scene 6. Narrated educational video about: description of the movie dogma. This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward.",
+      "visual_description": "Cinematic 16:9 frame for scene 6: description of the movie dogma, educational tone, highly detailed composition."
+    },
+    {
+      "index": 7,
+      "narration": "Scene 7. Narrated educational video about: description of the movie dogma. This segment follows a clear, factual, and explanatory with simple transitions approach and moves the story forward.",
+      "visual_description": "Cinematic 16:9 frame for scene 7: description of the movie dogma, educational tone, highly detailed composition."
+    }
+  ]
+}
